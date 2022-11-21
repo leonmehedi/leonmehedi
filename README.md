@@ -1,4 +1,4 @@
-<h1 align="center">I'm Leon Islam</h1>
+<h1 align="center">I'm Leon Islam color="red" </h1>
 <h3 align="center">Programmer</h3>
 <img align="center" alt="Coding" width="500" src="https://media.tenor.com/-buzIaq-QeoAAAAC/code-coding.gif">
 
