@@ -1,6 +1,6 @@
 <h1 align="center">I'm Leon Islam</h1>
 <h3 align="center">I'm a Programmer (pgrm.)</h3>
-<img align="center" alt="Coding" width="500" src="https://media.tenor.com/-buzIaq-QeoAAAAC/code-coding.gif">
+<img align="center" alt="Coding" width="500" src="https://media.tenor.com/-buzIaq-QeoAAAAC/code-coding.gif" tittle="Fucking Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonmisbah&label=Profile%20views&color=0e75b6&style=flat" alt="leonmisbah" /> </p>
 
