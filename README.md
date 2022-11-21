@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/ayushkumar_25)
 [![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen)](https://www.hackerrank.com/ayushkumar_25)
 
-![](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
+(https://www.facebook.com/photo/?fbid=129947376531024&set=a.106423235550105)
 <!-- TO make screenshot of your code, copy below link:  
 https://carbon.now.sh/ -->
 
