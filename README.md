@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/ayushkumar_25)
 [![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen)](https://www.hackerrank.com/ayushkumar_25)
 
-[https://github.com/leonmisbah/github_background/blob/873a72e7c13db03e81502d7a8dc5129e508b30ea/github_background.png?raw=true](https://github.com/leonmisbah/github_background/blob/2577885280c8c9111defef993e415dbe25587484/github_background.png)
+https://raw.githubusercontent.com/leonmisbah/github_background/main/github_background.png
 ## About Me:
 #### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and motor sports boost my adrenaline. <br> <br>
 
