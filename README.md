@@ -1,12 +1,6 @@
 <h1 align="center">I'm Leon Islam</h1>
 <h3 align="center">Programmer</h3>
-<img align="center" alt="Coding" width="500" src="https://media.tenor.com/-buzIaq-QeoAAAAC/code-coding.gif" class="center2">
-.center2 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+<img align="center" alt="Coding" width="100" src="https://media.tenor.com/-buzIaq-QeoAAAAC/code-coding.gif"">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonmisbah&label=Profile%20views&color=0e75b6&style=flat" alt="leonmisbah" /> </p>
 
