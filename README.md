@@ -19,7 +19,7 @@
 
 <!-- - 📄 Know about my experiences [Coming Soon](Coming Soon) -->
 
-- ⚡ Fun fact **I basically do 18 hours of coding out of 24 hours.**
+- ⚡ Fun fact **I basically do 12-16 hours of coding out of 24 hours.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
