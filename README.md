@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Coming Soon](Coming Soon) -->
 
-- 📫 How to reach me **leonislam.misbah@gmail.com**
+- 📫 How to reach me **leonmehedi.ue@gmail.com**
 
 <!-- - 📄 Know about my experiences [Coming Soon](Coming Soon) -->
 
